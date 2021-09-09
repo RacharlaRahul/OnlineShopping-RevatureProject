@@ -5,10 +5,6 @@ Description
    
    The Online Shopping is a console-based menu driven application that simulates online shopping experience. An employee can add Products. A Customer can place order on the products. The employee delivers the Product to the Customer.
 
-Purpose
-
-  We want to see that you can meet deadlines and that you can code. You are expected to complete the following requirements and give a 5 minute presentation of your project to our QC team.
-
 Requirements
 
 1. Functionality should reflect the below user stories.

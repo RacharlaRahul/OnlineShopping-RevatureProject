@@ -1,4 +1,4 @@
-# OnlineShopping-RevatureProject
+OnlineShopping-RevatureProject
 Online shopping console related project - Maven , Junit , Log4j ......
  
 Description
@@ -10,6 +10,7 @@ Purpose
   We want to see that you can meet deadlines and that you can code. You are expected to complete the following requirements and give a 5 minute presentation of your project to our QC team.
 
 Requirements
+
 1. Functionality should reflect the below user stories.
 2. Data is stored in a database.
 3. Data Access is performed through the use of JDBC in a data layer consisting of Data Access Objects.
@@ -36,3 +37,6 @@ Requirements
 |11|As a user, I can logout of my session.
 |12|As a employee, he can search customer by various filters like email, id, name, orderid etc.
 
+Technologies 
+
+Java , Maven , MySql , JDBC , JUnit , Log4j 
